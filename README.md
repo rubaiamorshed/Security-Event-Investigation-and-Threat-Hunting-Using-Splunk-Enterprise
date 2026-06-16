@@ -186,5 +186,6 @@ By correlating web traffic and firewall events, the investigation successfully r
 
 * MITRE ATT&CK Framework
 * OWASP Top 10
+* OWASP Web Security Testing Guide (WSTG)
 * Splunk Enterprise Documentation
 * TryHackMe – Splunk for Log Analysis (Advent of Cyber 2025)
